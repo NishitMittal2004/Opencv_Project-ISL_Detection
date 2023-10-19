@@ -1,1 +1,1 @@
-# Opencv_Project-ISL_Detection
+# OpenCV Project - Indian Sign Language Detection
